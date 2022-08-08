@@ -1,2 +1,2 @@
-# gadm_geojson_data
+# GADM GeoJSON Data
 Load GeoJSON data from GADM.
