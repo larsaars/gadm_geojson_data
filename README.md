@@ -1,2 +1,2 @@
 # GADM GeoJSON Data
-Load GeoJSON data from GADM.
+GeoJSON data from [GADM](gadm.org/download_country.html).
