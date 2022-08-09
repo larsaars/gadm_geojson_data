@@ -28,11 +28,13 @@ def download(level):
 
     for country in countries:
         try:
-            with open(f'./{level}/{country}.json', 'wb') as f:
-                f.write(requests.get(f'https://geodata.ucdavis.edu/gadm/gadm4.1/json/gadm41_{country.upper()}_{level}.json').content)
-            
+            res = requests.get(f'https://geodata.ucdavis.edu/gadm/gadm4.1/json/gadm41_{country.upper()}_{level}.json')
 
-            print(f'{country} downloaded for level {level}')
+            if res.status_code == 200:
+                with open(f'./{level}/{country}.json', 'wb') as f:
+                    f.write(res.content)
+            
+                print(f'{country} downloaded for level {level}')
         except Exception as e:
             printerr(f'Error downloading {country} for level {level}')
 
