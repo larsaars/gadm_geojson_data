@@ -23,7 +23,7 @@ def download(level):
         os.mkdir(f'./{level}')
 
 
-    with open('./countries.txt', 'r') as f:
+    with open('./countries/countries.txt', 'r') as f:
         countries = f.read().splitlines()
 
     for country in countries:
