@@ -239,4 +239,3 @@ YEM
 ZAF
 ZMB
 ZWE
-countries
