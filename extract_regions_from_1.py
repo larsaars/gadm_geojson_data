@@ -10,6 +10,7 @@ In these subfolders also put a file with the list of regions ('regions.txt').
 import json
 import os
 import re
+from unidecode import unidecode
 
 def main():
     for file in os.listdir('./1'):
@@ -24,11 +25,13 @@ def main():
             regions_names = []
 
             for feature in data['features']:
-                # for keyword search make sure to use lowercase
-                # and add space in font of every uppercase word
+                # for keyword search make sure to use lowercase, unidecoded etc.
                 region_name = str(feature['properties']['NAME_1'])
-                region_name = re.sub(r'\W+', '', region_name)
-                region_name = re.sub(r"(\w)([A-Z])", r"\1 \2", region_name).strip().lower()
+                
+                # make sure text is lowercase, trimmed string with only alphanumeric characters
+                region_name = unidecode(region_name).lower().strip()  # unidecode, lower and trim
+                region_name = re.sub(r'[^a-z0-9 ]+', '', region_name)  # lower alphanumeric characters only
+                region_name = re.sub(r'\s+', ' ', region_name)  # remove multiple spaces and put a space in front to be able to find if keyword is at beginning of text
 
                 regions_names.append(region_name)
 

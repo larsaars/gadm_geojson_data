@@ -32,7 +32,7 @@ def main():
             for region in regions:
                 with open(f'./regions/{country}/{region.replace(" ", "_")}.json', 'r') as region_file:
                     region_json = json.load(region_file)
-                    region_geometry = shape(region_json['features'][0]['geometry'])
+                    region_geometry = shape(region_json['geometry'])
                     centroid = region_geometry.centroid.coords[0]
 
                     mapping[country][region] = {'lat': centroid[1], 'lon': centroid[0]}
