@@ -1,10 +1,10 @@
 devonshire
 hamilton
-hamiltonmunicipality
+hamilton municipality
 paget
 pembroke
-saintgeorges
-saintgeorgemunicipality
+saint georges
+saint georgemunicipality
 sandys
 smiths
 southampton

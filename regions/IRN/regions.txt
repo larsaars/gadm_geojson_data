@@ -1,8 +1,8 @@
 alborz
 ardebil
 bushehr
-chaharmahallandbakhtiari
-eastazarbaijan
+chahar mahalland bakhtiari
+east azarbaijan
 esfahan
 fars
 gilan
@@ -13,19 +13,19 @@ ilam
 kerman
 kermanshah
 khuzestan
-kohgiluyehandbuyerahmad
+kohgiluyehand buyer ahmad
 kordestan
 lorestan
 markazi
 mazandaran
-northkhorasan
+north khorasan
 qazvin
 qom
-razavikhorasan
+razavi khorasan
 semnan
-sistanandbaluchestan
-southkhorasan
+sistanand baluchestan
+south khorasan
 tehran
-westazarbaijan
+west azarbaijan
 yazd
 zanjan

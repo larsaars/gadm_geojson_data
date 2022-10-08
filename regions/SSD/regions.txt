@@ -1,10 +1,10 @@
-centralequatoria
-easternequatoria
+central equatoria
+eastern equatoria
 jungoli
 lakes
-northbahralghazal
+north bahralghazal
 unity
-uppernile
+upper nile
 warap
-westbahralghazal
-westequatoria
+west bahralghazal
+west equatoria

@@ -1,16 +1,16 @@
 ahafo
 ashanti
 bono
-bonoeast
+bono east
 central
 eastern
-greateraccra
-northeast
+greater accra
+north east
 northern
 oti
 savannah
-uppereast
-upperwest
+upper east
+upper west
 volta
 western
-westernnorth
+western north

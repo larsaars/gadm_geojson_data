@@ -1,40 +1,40 @@
-amnatcharoen
-angthong
-bangkokmetropolis
-buengkan
-buriram
+amnat charoen
+ang thong
+bangkok metropolis
+bueng kan
+buri ram
 chachoengsao
-chainat
+chai nat
 chaiyaphum
 chanthaburi
-chiangmai
-chiangrai
-chonburi
+chiang mai
+chiang rai
+chon buri
 chumphon
 kalasin
-kamphaengphet
+kamphaeng phet
 kanchanaburi
-khonkaen
+khon kaen
 krabi
 lampang
 lamphun
 loei
-lopburi
-maehongson
-mahasarakham
+lop buri
+mae hong son
+maha sarakham
 mukdahan
-nakhonnayok
-nakhonpathom
-nakhonphanom
-nakhonratchasima
-nakhonsawan
-nakhonsithammarat
+nakhon nayok
+nakhon pathom
+nakhon phanom
+nakhon ratchasima
+nakhon sawan
+nakhon si thammarat
 nan
 narathiwat
-nongbualamphu
-nongkhai
+nong bua lam phu
+nong khai
 nonthaburi
-pathumthani
+pathum thani
 pattani
 phangnga
 phatthalung
@@ -43,35 +43,35 @@ phetchabun
 phetchaburi
 phichit
 phitsanulok
-phranakhonsiayutthaya
+phra nakhon si ayutthaya
 phrae
 phuket
-prachinburi
-prachuapkhirikhan
+prachin buri
+prachuap khiri khan
 ranong
 ratchaburi
 rayong
-roiet
-sakaeo
-sakonnakhon
-samutprakan
-samutsakhon
-samutsongkhram
+roi et
+sa kaeo
+sakon nakhon
+samut prakan
+samut sakhon
+samut songkhram
 saraburi
 satun
-sisaket
-singburi
+si sa ket
+sing buri
 songkhla
 sukhothai
-suphanburi
-suratthani
+suphan buri
+surat thani
 surin
 tak
 trang
 trat
-ubonratchathani
-udonthani
-uthaithani
+ubon ratchathani
+udon thani
+uthai thani
 uttaradit
 yala
 yasothon

@@ -1,8 +1,8 @@
 austurland
-hofudborgarsvaedi
-nordurlandeystra
-nordurlandvestra
-sudurland
-sudurnes
-vestfirdir
+hfuborgarsvi
+norurlandeystra
+norurlandvestra
+suurland
+suurnes
+vestfirir
 vesturland

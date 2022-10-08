@@ -4,7 +4,7 @@ basilicata
 calabria
 campania
 emiliaromagna
-friuliveneziagiulia
+friulivenezia giulia
 lazio
 liguria
 lombardia
@@ -14,7 +14,7 @@ piemonte
 sardegna
 sicily
 toscana
-trentinoaltoadige
+trentinoalto adige
 umbria
 valledaosta
 veneto

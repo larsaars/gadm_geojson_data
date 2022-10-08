@@ -11,7 +11,7 @@ chechnya
 chelyabinsk
 chukot
 chuvash
-cityofstpetersburg
+cityof stpetersburg
 dagestan
 gornoaltay
 ingush
@@ -40,12 +40,12 @@ lipetsk
 magadan
 mariyel
 mordovia
-moscowcity
+moscow city
 moskva
 murmansk
 nenets
 nizhegorod
-northossetia
+north ossetia
 novgorod
 novosibirsk
 omsk

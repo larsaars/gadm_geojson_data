@@ -1,33 +1,33 @@
 amazonas
 antioquia
 arauca
-atlantico
-bogotadc
-bolivar
-boyaca
+atlntico
+bogot dc
+bolvar
+boyac
 caldas
-caqueta
+caquet
 casanare
 cauca
 cesar
-choco
-cordoba
+choc
+crdoba
 cundinamarca
-guainia
+guaina
 guaviare
 huila
-laguajira
+la guajira
 magdalena
 meta
-narino
-nortedesantander
+nario
+nortede santander
 putumayo
-quindio
+quindo
 risaralda
-sanandresyprovidencia
+san andrsy providencia
 santander
 sucre
 tolima
-valledelcauca
-vaupes
+valledel cauca
+vaups
 vichada

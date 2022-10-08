@@ -2,7 +2,7 @@ aegean
 athos
 attica
 crete
-epirusandwesternmacedonia
-macedoniaandthrace
-peloponnesewesterngreeceand
-thessalyandcentralgreece
+epirusand western macedonia
+macedoniaand thrace
+peloponnesewestern greeceand
+thessalyand central greece

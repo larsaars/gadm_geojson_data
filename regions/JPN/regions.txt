@@ -10,7 +10,7 @@ gifu
 gunma
 hiroshima
 hokkaido
-hyogo
+hygo
 ibaraki
 ishikawa
 iwate

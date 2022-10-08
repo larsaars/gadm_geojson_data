@@ -10,7 +10,7 @@ hainan
 hebei
 heilongjiang
 henan
-hongkong
+hong kong
 hubei
 hunan
 jiangsu
@@ -18,8 +18,8 @@ jiangxi
 jilin
 liaoning
 macau
-neimongol
-ningxiahui
+nei mongol
+ningxia hui
 qinghai
 shaanxi
 shandong
@@ -27,9 +27,9 @@ shanghai
 shanxi
 sichuan
 tianjin
-xinjianguygur
-xinjianguygur
-xinjianguygur
+xinjiang uygur
+xinjiang uygur
+xinjiang uygur
 xizang
 xizang
 xizang

@@ -1,9 +1,9 @@
 gorenjska
-goriska
-jugovzhodnaslovenija
-koroska
-notranjskokraska
-obalnokraska
+gorika
+jugovzhodna slovenija
+koroka
+notranjskokraka
+obalnokraka
 osrednjeslovenska
 podravska
 pomurska

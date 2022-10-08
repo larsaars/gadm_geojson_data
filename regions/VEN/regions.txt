@@ -1,24 +1,24 @@
 amazonas
-anzoategui
+anzotegui
 apure
 aragua
 barinas
-bolivar
+bolvar
 carabobo
 cojedes
-deltaamacuro
-dependenciasfederales
-distritocapital
-falcon
-guarico
+delta amacuro
+dependencias federales
+distrito capital
+falcn
+gurico
 lara
-merida
+mrida
 miranda
 monagas
-nuevaesparta
+nueva esparta
 portuguesa
 sucre
-tachira
+tchira
 trujillo
 vargas
 yaracuy

@@ -1,9 +1,9 @@
 drenthe
 flevoland
-fryslan
+frysln
 gelderland
 groningen
-ijsselmeer
+i jsselmeer
 limburg
 noordbrabant
 noordholland
@@ -11,4 +11,4 @@ overijssel
 utrecht
 zeeland
 zeeuwsemeren
-na
+n a

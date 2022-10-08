@@ -5,7 +5,7 @@ busia
 elgeyomarakwet
 embu
 garissa
-homabay
+homa bay
 isiolo
 kajiado
 kakamega
@@ -36,12 +36,12 @@ nyandarua
 nyeri
 samburu
 siaya
-taitataveta
-tanariver
+taita taveta
+tana river
 tharakanithi
-transnzoia
+trans nzoia
 turkana
-uasingishu
+uasin gishu
 vihiga
 wajir
-westpokot
+west pokot

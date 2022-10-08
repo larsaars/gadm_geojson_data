@@ -1,6 +1,6 @@
 charlotte
 grenadines
-saintandrew
-saintdavid
-saintgeorge
-saintpatrick
+saint andrew
+saint david
+saint george
+saint patrick

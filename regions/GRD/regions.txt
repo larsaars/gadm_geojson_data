@@ -1,7 +1,7 @@
 carriacou
-saintandrew
-saintdavid
-saintgeorge
-saintjohn
-saintmark
-saintpatrick
+saint andrew
+saint david
+saint george
+saint john
+saint mark
+saint patrick

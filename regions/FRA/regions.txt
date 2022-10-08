@@ -1,13 +1,13 @@
-auvergnerhonealpes
-bourgognefranchecomte
+auvergnerhnealpes
+bourgognefranchecomt
 bretagne
-centrevaldeloire
+centrevalde loire
 corse
-grandest
+grand est
 hautsdefrance
-iledefrance
+ledefrance
 normandie
 nouvelleaquitaine
 occitanie
-paysdelaloire
-provencealpescotedazur
+paysdela loire
+provencealpesctedazur

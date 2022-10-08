@@ -1,5 +1,5 @@
 hovedstaden
 midtjylland
 nordjylland
-sjaelland
+sjlland
 syddanmark

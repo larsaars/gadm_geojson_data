@@ -2,7 +2,7 @@ blagoevgrad
 burgas
 dobrich
 gabrovo
-gradsofiya
+grad sofiya
 haskovo
 kardzhali
 kyustendil
@@ -19,10 +19,10 @@ silistra
 sliven
 smolyan
 sofia
-starazagora
+stara zagora
 targovishte
 varna
-velikotarnovo
+veliko tarnovo
 vidin
 vratsa
 yambol

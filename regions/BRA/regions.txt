@@ -1,27 +1,27 @@
 acre
 alagoas
-amapa
+amap
 amazonas
 bahia
-ceara
-distritofederal
-espiritosanto
-goias
-maranhao
-matogrosso
-matogrossodosul
-minasgerais
-para
-paraiba
-parana
+cear
+distrito federal
+esprito santo
+gois
+maranho
+mato grosso
+mato grossodo sul
+minas gerais
+par
+paraba
+paran
 pernambuco
-piaui
-riodejaneiro
-riograndedonorte
-riograndedosul
-rondonia
+piau
+riode janeiro
+rio grandedo norte
+rio grandedo sul
+rondnia
 roraima
-santacatarina
-saopaulo
+santa catarina
+so paulo
 sergipe
 tocantins

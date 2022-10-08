@@ -1,32 +1,32 @@
 acklins
-berryislands
+berry islands
 biminis
-blackpoint
-catisland
-centralabaco
-centralandros
-centraleleuthera
-cityoffreeport
-crookedisland
-eastgrandbahama
+black point
+cat island
+central abaco
+central andros
+central eleuthera
+cityof freeport
+crooked island
+east grand bahama
 exuma
-grandcay
-harbourisland
-hopetown
+grand cay
+harbour island
+hope town
 inagua
-longisland
-mangrovecay
+long island
+mangrove cay
 mayaguana
-mooresisland
-newprovidence
-northabaco
-northandros
-northeleuthera
-raggedisland
-rumcay
-sansalvador
-southabaco
-southandros
-southeleuthera
-spanishwells
-westgrandbahama
+moores island
+new providence
+north abaco
+north andros
+north eleuthera
+ragged island
+rum cay
+san salvador
+south abaco
+south andros
+south eleuthera
+spanish wells
+west grand bahama

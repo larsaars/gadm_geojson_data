@@ -29,7 +29,7 @@ def main():
                 region_name = str(feature['properties']['NAME_1'])
                 
                 # make sure text is lowercase, trimmed string with only alphanumeric characters
-                region_name = unidecode(region_name).lower().strip()  # unidecode, lower and trim
+                region_name = re.sub(r"(\w)([A-Z])", r"\1 \2", region_name).strip().lower()  # split camelcase, afterwards strip and lowercase
                 region_name = re.sub(r'[^a-z0-9 ]+', '', region_name)  # lower alphanumeric characters only
                 region_name = re.sub(r'\s+', ' ', region_name)  # remove multiple spaces and put a space in front to be able to find if keyword is at beginning of text
 

@@ -1,7 +1,7 @@
 adamaoua
 centre
 est
-extremenord
+extrmenord
 littoral
 nord
 nordouest

@@ -1,12 +1,12 @@
 basuele
-equateur
+quateur
 hautkatanga
 hautlomami
 hautuele
 ituri
-kasai
-kasaicentral
-kasaioriental
+kasa
+kasacentral
+kasaoriental
 kinshasa
 kongocentral
 kwango

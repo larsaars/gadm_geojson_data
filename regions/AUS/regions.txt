@@ -1,11 +1,11 @@
-ashmoreandcartierislands
-australiancapitalterritory
-coralseaislandsterritory
-jervisbayterritory
-newsouthwales
-northernterritory
+ashmoreand cartier islands
+australian capital territory
+coral sea islands territory
+jervis bay territory
+new south wales
+northern territory
 queensland
-southaustralia
+south australia
 tasmania
 victoria
-westernaustralia
+western australia

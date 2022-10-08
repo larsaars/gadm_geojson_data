@@ -6,7 +6,7 @@ california
 colorado
 connecticut
 delaware
-districtofcolumbia
+districtof columbia
 florida
 georgia
 hawaii
@@ -27,25 +27,25 @@ missouri
 montana
 nebraska
 nevada
-newhampshire
-newjersey
-newmexico
-newyork
-northcarolina
-northdakota
+new hampshire
+new jersey
+new mexico
+new york
+north carolina
+north dakota
 ohio
 oklahoma
 oregon
 pennsylvania
-rhodeisland
-southcarolina
-southdakota
+rhode island
+south carolina
+south dakota
 tennessee
 texas
 utah
 vermont
 virginia
 washington
-westvirginia
+west virginia
 wisconsin
 wyoming

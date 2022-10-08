@@ -1,13 +1,13 @@
 alberta
-britishcolumbia
+british columbia
 manitoba
-newbrunswick
-newfoundlandandlabrador
-northwestterritories
-novascotia
+new brunswick
+newfoundlandand labrador
+northwest territories
+nova scotia
 nunavut
 ontario
-princeedwardisland
-quebec
+prince edward island
+qubec
 saskatchewan
 yukon

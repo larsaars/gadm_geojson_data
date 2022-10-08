@@ -1,8 +1,8 @@
-banskobystricky
-bratislavsky
-kosicky
+banskobystrick
+bratislavsk
+koick
 nitriansky
-presovsky
-trenciansky
-trnavsky
-zilinsky
+preovsk
+treniansky
+trnavsk
+ilinsk

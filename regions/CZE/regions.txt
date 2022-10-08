@@ -1,14 +1,14 @@
-jihocesky
-jihomoravsky
-karlovarsky
-krajvysocina
-kralovehradecky
-liberecky
-moravskoslezsky
-olomoucky
-pardubicky
-plzensky
+jihoesk
+jihomoravsk
+karlovarsk
+kraj vysoina
+krlovhradeck
+libereck
+moravskoslezsk
+olomouck
+pardubick
+plzesk
 prague
-stredocesky
-ustecky
-zlinsky
+stedoesk
+steck
+zlnsk
