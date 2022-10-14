@@ -19,5 +19,5 @@ do
     done
 done
 
-rm -rf regions
-mv regions_scaled regions
+# rm -rf regions
+# mv regions_scaled regions
