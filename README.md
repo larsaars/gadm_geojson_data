@@ -1,6 +1,6 @@
 # GADM GeoJSON Data
 
-GeoJSON data from [GADM](gadm.org/download_country.html).
+GeoJSON data from [GADM](https://gadm.org/download_country.html).
 
 ## How to use
 
